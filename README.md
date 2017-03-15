@@ -1,1 +1,1 @@
-# qm-notas
+# Notas personales de computación cuántica y mecánica cuántica
