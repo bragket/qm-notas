@@ -105,5 +105,71 @@
   $$
 \end{frame}
 
+\begin{frame}
+  \frametitle{Esfera Blosch de X}
+  \includegraphics[scale=.60]{x-blochsphere.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Circuito de la plataforma de IBM para X}
+  \includegraphics[scale=.15]{x-gate.png}
+\end{frame}
+
+
+\begin{frame}
+  \frametitle{Resultado de la plataforma de IBM para X}
+  \includegraphics[scale=.30]{x-resultado.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Creando superposiciones}
+  Ahora que se ha abordado como cambiar entre los estados $\ket{0}$ y $\ket{1}$, podemos explorar el concepto de
+  superposición; se refiere a crear un nuevo estado cuántico el cual es una combinación lineal de los estados base
+  $\ket{0}$ y $\ket{1}$.
+\end{frame}
+
+\begin{frame}
+  \frametitle{La compuerta Hadamard \textit{H}}
+  La compuerta Hadamard es descrita con la siguiente matriz
+    $$H \equiv
+  \frac{1}{\sqrt{2}}\begin{pmatrix}
+    1 & 1 \\
+    1 & -1
+  \end{pmatrix}$$
+\end{frame}
+
+\begin{frame}
+  Si ahora hacemos pasar el estado $\ket{0}$ a través de la compuerta H, tenemos como resultado:
+  $$ \ket{+} = \frac{1}{\sqrt{2}}( \ket{0} + \ket{1} ) $$
+  $\ket{+}$ puede decirse que está 'a la mitad del estado $\ket{0}$ y a la mitad del
+  $\ket{1}$', lo cuál es una clara \textit{superposición de estados}.
+\end{frame}
+
+\begin{frame}
+  Ahora bien, hacemos pasar a $\ket{1}$ través de la compuerta \textit{H}, dando como
+  resultado:
+  $$ \ket{-} = \frac{1}{\sqrt{2}}( \ket{0} - \ket{1} ) $$
+  \includegraphics[scale=.2]{-superpositionstate.png}
+\end{frame}
+\begin{frame}
+  $\ket{+}$ y $\ket{-}$ forman así mismo una nueva base computacional (o una nueva dirección de
+  medición), llamada la base de superposición.
+\end{frame}
+
+\begin{frame}
+  Se puede observar a la compuerta \textit{H} como un intercambio en los ejes X+Z
+
+  \includegraphics[scale=.3]{HADAMARD-GATE-BLOSCH.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Experimento con la CNOT en la plataforam de IBM}
+  \includegraphics[scale=.35]{CNOT-IBM-CIRCUIT.png}
+\end{frame}
+
+\begin{frame}
+  \frametitle{Resultados}
+  \includegraphics[scale=.5]{CNOT-RESULTADOS.png}
+\end{frame}
 
 \end{document}

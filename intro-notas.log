@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.3.14)  17 MAR 2017 01:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2017.3.14)  31 MAR 2017 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,6 +1176,105 @@ Package pdftex.def Info: blochsphere.png used on input line 56.
 ] [10
 
 ]
+<x-blochsphere.png, id=290, 642.4pt x 401.5pt>
+File: x-blochsphere.png Graphic file (type png)
+ <use x-blochsphere.png>
+Package pdftex.def Info: x-blochsphere.png used on input line 111.
+(pdftex.def)             Requested size: 385.44298pt x 240.90184pt.
+
+Overfull \hbox (78.1531pt too wide) in paragraph at lines 111--111
+[][]  
+ []
+
+
+Overfull \vbox (43.16446pt too high) detected at line 111
+ []
+
+[11
+
+ <./x-blochsphere.png>] <x-gate.png, id=318, 1719.42375pt x 361.35pt>
+File: x-gate.png Graphic file (type png)
+
+<use x-gate.png>
+Package pdftex.def Info: x-gate.png used on input line 116.
+(pdftex.def)             Requested size: 257.90244pt x 54.20015pt.
+ [12
+
+ <./x-gate.png>]
+<x-resultado.png, id=347, 1371.1225pt x 770.88pt>
+File: x-resultado.png Graphic file (type png)
+ <use x-resultado.png>
+Package pdftex.def Info: x-resultado.png used on input line 122.
+(pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
+
+Overfull \hbox (104.05005pt too wide) in paragraph at lines 122--122
+[][]  
+ []
+
+
+Overfull \vbox (33.5284pt too high) detected at line 122
+ []
+
+[13
+
+ <./x-resultado.png>] [14
+
+] [15
+
+] [16
+
+]
+<-superpositionstate.png, id=456, 1505.1432pt x 502.5174pt>
+File: -superpositionstate.png Graphic file (type png)
+
+<use -superpositionstate.png>
+Package pdftex.def Info: -superpositionstate.png used on input line 153.
+(pdftex.def)             Requested size: 301.0233pt x 100.5017pt.
+ [17
+
+ <./-superpositionstate.png (PNG copy)>]
+[18
+
+] <HADAMARD-GATE-BLOSCH.png, id=509, 941.919pt x 502.5174pt>
+File: HADAMARD-GATE-BLOSCH.png Graphic file (type png)
+
+<use HADAMARD-GATE-BLOSCH.png>
+Package pdftex.def Info: HADAMARD-GATE-BLOSCH.png used on input line 163.
+(pdftex.def)             Requested size: 282.57788pt x 150.75638pt.
+ [19
+
+ <./HADAMARD-GATE-BLOSCH.png (PNG copy)>]
+<CNOT-IBM-CIRCUIT.png, id=537, 926.46124pt x 361.35pt>
+File: CNOT-IBM-CIRCUIT.png Graphic file (type png)
+
+<use CNOT-IBM-CIRCUIT.png>
+Package pdftex.def Info: CNOT-IBM-CIRCUIT.png used on input line 168.
+(pdftex.def)             Requested size: 324.26628pt x 126.4744pt.
+
+Overfull \hbox (16.97641pt too wide) in paragraph at lines 168--168
+[][]  
+ []
+
+[20
+
+ <./CNOT-IBM-CIRCUIT.png>] <CNOT-RESULTADOS.png, id=565, 642.4pt x 401.5pt>
+File: CNOT-RESULTADOS.png Graphic file (type png)
+
+<use CNOT-RESULTADOS.png>
+Package pdftex.def Info: CNOT-RESULTADOS.png used on input line 173.
+(pdftex.def)             Requested size: 321.19922pt x 200.7495pt.
+
+Overfull \hbox (13.90935pt too wide) in paragraph at lines 173--173
+[][]  
+ []
+
+
+Overfull \vbox (3.01212pt too high) detected at line 173
+ []
+
+[21
+
+ <./CNOT-RESULTADOS.png>]
 \tf@nav=\write6
 \openout6 = `intro-notas.nav'.
 
@@ -1185,11 +1284,11 @@ Package pdftex.def Info: blochsphere.png used on input line 56.
 \tf@snm=\write8
 \openout8 = `intro-notas.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 109.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 109.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./intro-notas.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 109.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 109.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `intro-notas.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1197,14 +1296,14 @@ Package rerunfilecheck Info: File `intro-notas.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 109.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 175.
  ) 
 Here is how much of TeX's memory you used:
- 17264 strings out of 495020
- 328588 string characters out of 6181324
- 398864 words of memory out of 5000000
- 20042 multiletter control sequences out of 15000+600000
- 10258 words of font info for 38 fonts, out of 8000000 for 9000
+ 17345 strings out of 495020
+ 329771 string characters out of 6181324
+ 398863 words of memory out of 5000000
+ 20093 multiletter control sequences out of 15000+600000
+ 10617 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,15n,51p,418b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
@@ -1213,11 +1312,12 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on intro-notas.pdf (10 pages, 91484 bytes).
+ts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb>
+Output written on intro-notas.pdf (21 pages, 529792 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 287 compressed objects within 3 object streams
- 21 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 630 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
